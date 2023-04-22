@@ -17,9 +17,12 @@ Speechify is a web app that converts text to speech. It is built using React.js 
 ### Speechify can be used in a variety of settings, including:
 
     For people with visual impairments who have difficulty reading text on a screen.
-    In classrooms or lecture halls, to assist students who have trouble reading or who are learning a new language.
-    By content creators or publishers, to create audio versions of written content for those who prefer to listen instead of read.
-    In virtual or augmented reality applications, to provide voiceover or narration to immersive experiences.
+    In classrooms or lecture halls, to assist students who have
+    trouble reading or who are learning a new language.
+    By content creators or publishers, to create audio versions
+    of written content for those who prefer to listen instead of read.
+    In virtual or augmented reality applications, to provide voiceover
+    or narration to immersive experiences.
 
 ## Installation
 
