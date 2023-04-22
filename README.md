@@ -28,7 +28,7 @@ Speechify is a web app that converts text to speech. It is built using React.js 
 
 To run Speechify locally on your machine, you will need to have Node.js and npm installed. Then, follow these steps:
 
-    Clone the repository: git clone https://github.com/your-username/speechify.git
+    Clone the repository: git clone https://github.com/Frs2304/Speechify.git
     Install dependencies: npm install
     Start the app: npm start
     Visit http://localhost:5173 in your web browser to view the app.
